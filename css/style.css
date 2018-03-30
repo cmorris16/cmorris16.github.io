@@ -20,7 +20,7 @@ body.modal-open {
 
 #home {
   position: relative;
-  background: url("../img/web-design1.jpg");
+  background-image: url("/img/coding1.jpg");
   background-size: cover;
   background-attachment: fixed;
   height: 100vh;
@@ -71,7 +71,7 @@ body.modal-open {
 
 #portfolio {
   position: relative;
-  background: url("../img/web-design2.jpeg");
+  background-image: url("/img/web-design2.jpeg");
   background-size: cover;
   background-attachment: fixed;
   height: 100vh;
